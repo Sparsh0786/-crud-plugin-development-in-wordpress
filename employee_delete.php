@@ -16,6 +16,7 @@ function employee_delete(){
     ?>
     
     <?php
+    
     //wp_redirect( admin_url('admin.php?page=page=Employee_List'),301 );
     //exit;
     //header("location:http://localhost/wordpressmyplugin/wordpress/wp-admin/admin.php?page=Employee_Listing");
