@@ -60,10 +60,7 @@ function employee_insert()
             )
         );
         echo "Inserted Your DATA";
-       // wp_redirect( admin_url('admin.php?page=page=Employee_List'),301 );
-
-        //header("location:http://localhost/wordpressmyplugin/wordpress/wp-admin/admin.php?page=Employee_Listing");
-      //  header("http://google.com");
+       
         ?>
         
         <?php
