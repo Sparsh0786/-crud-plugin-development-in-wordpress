@@ -70,6 +70,7 @@ if(isset($_POST['upd']))
         )
     );
     $url=admin_url('admin.php?page=Employee_List');
+    //This is optional
    // header("location:http://localhost/wordpressmyplugin/wordpress/wp-admin/admin.php?page=Employee_Listing");
 }
 ?>
