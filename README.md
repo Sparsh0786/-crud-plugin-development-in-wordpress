@@ -1,2 +1,7 @@
 # -crud-plugin-development-in-wordpress
-2020
+<?php 
+
+echo "Hello";
+echo "stay home stay safe in 2020 ";
+exit;
+?>
