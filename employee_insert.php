@@ -1,5 +1,5 @@
 <?php
-
+//check
 function employee_insert()
 {
     //echo "insert page";
